@@ -1,0 +1,35 @@
+img{
+  object-fit: contain;
+  height: 40vh;
+  width: 100%;
+}
+
+p{
+  margin: 0;
+}
+
+.height{
+  height: 100%;
+}
+
+.bg-sea{
+  background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2021-07/27/18/asset/e247518e2ec7/sub-buzz-870-1627410785-9.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 25px;
+  height: 100vh;
+}
+/* we will change this when we delete the row of buttons above it */
+.cart-container{
+  height: 75vh;
+  width: 100%;
+}
+
+.cart-space{
+  width: 100%;
+  height: 85%;
+}
+
+.selectable{
+  cursor: pointer;
+}
